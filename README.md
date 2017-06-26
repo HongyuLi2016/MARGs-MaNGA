@@ -4,8 +4,8 @@ This repository contains the online data for paper "SDSS-IV MaNGA: Discovery and
 References
 -----
 If you find the data here is useful in your study, please cite the papers below:
- * Li H. et al 2017, MNRAS, submitted "The origin and properties of massive prolate galaxies in the Illustris simulation"
- * Li H. et al 2017, MNARS, in preparation "SDSS-IV MaNGA: Discovery and properties of 38 prolate galaxies"
+ * `Li H. et al 2017, MNRAS, submitted` "The origin and properties of massive prolate galaxies in the Illustris simulation"
+ * `Li H. et al 2017, MNARS, in preparation` "SDSS-IV MaNGA: Discovery and properties of 38 prolate galaxies"
  
  Description
  -----
